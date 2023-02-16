@@ -58,7 +58,7 @@ Finally, all these commits need to be pushed to the remote repository. Once in t
 Here's a simple example of what it means to save your code with small blocks of code. For instance, let's say you're writing a simple Java program for a calculator that performs tasks such as addition, subtraction, multiplication, and division.
 
 ### Commit 1
-```
+```java
 // Create Program Structure
 
 import java.util.Scanner;
@@ -76,10 +76,11 @@ public class Calculator {
 
     // Perform the requested operation
   }
+}
 ```
 
 ### Commit 2
-```
+```java
 // Ask the user to input the type of operation they want to perform
     System.out.println("Please select the type of operation you want to perform:");
     System.out.println("1. Addition");
@@ -92,7 +93,7 @@ public class Calculator {
 ```
 
 ### Commit 3
-```
+```java
 // Ask the user to input the two numbers
     System.out.println("Please enter the first number:");
     double num1 = input.nextDouble();
@@ -102,7 +103,7 @@ public class Calculator {
 ```
 
 ### Commit 4
-```
+```java
 // Perform the requested operation
     switch (choice) {
       case 1:
@@ -125,7 +126,7 @@ public class Calculator {
 With each commit, a new state is created. Using GitHub's commit history, the developer can go back to any previous state, make changes, and continue from there.
 For example, if the developer wants to allow operations for three numbers instead of two, they can go back to commit 3 where the code would look something like this:
 
-```
+```java
 import java.util.Scanner;
 
 public class Calculator {
@@ -158,14 +159,14 @@ public class Calculator {
 
 They can add additional statements to input a third number
 
-```
+```java
 System.out.println("Please enter the third number:");
     double num3 = input.nextDouble();
 ```
 
 He can then save this as a new commit, add the next set of statements, and save them in commit 4. This would make the program look like the following:
 
-```
+```java
 import java.util.Scanner;
 
 public class Calculator {
