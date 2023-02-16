@@ -1,7 +1,6 @@
 
 # Importance of Version Control Systems while coding
 
-
 ## Introduction to Version Control
 Version control is a system and practice for managing changes in a file or digital content. By using a set of version control practices and tools, one can revert to a previous state of a project and view or manipulate its content. These are crucial tools that ensure that play a big part in ensuring the quality of the final product.
 
@@ -10,7 +9,7 @@ Version control systems provide a centralized space for the project which allows
 In fast-paced development environments, these systems make it easier for teams to work efficiently. Most often, these systems are designed to record every modification to the contents of the project. When there is an issue, those working on the project can compare previous versions to fix issues, errors, or inconsistencies with minimal disruption.
  (__Source__:  [Altassian](https://www.atlassian.com/git/tutorials/what-is-version-control)).
 
-![Version Control](Images/Version_Control.webp )
+![Version Control](Version_Control.webp)
 __Image Source:__ [Simplilearn](https://www.simplilearn.com/ice9/free_resources_article_thumb/Version_Control.png)
 
 ## Source Code Version Control
