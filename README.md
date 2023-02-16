@@ -226,6 +226,7 @@ Only commit code fully functional code to the repository. This does not mean tha
 
 ### Use of Branches:
 Branching is a crucial feature of Git. It helps keep different lines of development separate and reduces confusion. To make the most of this feature, branches should be utilized in your development process for various tasks such as adding new features, fixing bugs, conducting experiments or exploring ideas. (Source:  [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices))
+
 In conclusion, A version control system like Git can greatly enhance software development processes by allowing for efficient tracking of code changes, enabling collaboration, and providing greater control over project history. By leveraging features provided by these version control systems, developers can create better development workflows, reduce errors in code and always remain up-to date. 
 
 # Resources
