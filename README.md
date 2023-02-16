@@ -234,13 +234,15 @@ In conclusion, A version control system like Git can greatly enhance software de
 
 # Resources
 
-[Altassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+1. [Altassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-[Simplilearn](https://www.simplilearn.com/ice9/free_resources_article_thumb/Version_Control.png)
+2. [Simplilearn](https://www.simplilearn.com/ice9/free_resources_article_thumb/Version_Control.png)
 
-[Open AI](https://chat.openai.com)
+3. [Open AI](https://chat.openai.com)
 
-[Gitlab](https://about.gitlab.com/topics/version-control/version-control-best-practices)
+4. [Open Source](https://opensource.com/article/18/1/step-step-guide-git)
 
-[Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices)
+5. [Gitlab](https://about.gitlab.com/topics/version-control/version-control-best-practices)
+
+6. [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices)
 
