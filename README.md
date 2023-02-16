@@ -1,5 +1,6 @@
 
 # Importance of Version Control Systems while coding
+Written by Aran Arora, Sahil Singh Rawat & Priya Peter Menezes
 
 ## Introduction to Version Control
 Version control is a system and practice for managing changes in a file or digital content. By using a set of version control practices and tools, one can revert to a previous state of a project and view or manipulate its content. These are crucial tools that ensure that play a big part in ensuring the quality of the final product.
