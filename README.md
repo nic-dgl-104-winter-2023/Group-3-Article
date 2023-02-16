@@ -215,21 +215,17 @@ public class Calculator {
 
 Now that we've looked at how to create commits in GitHub for better version control, let's look at the best practices.
 
-1. Commit Relatively:
-
+### Commit Relatively:
 A commit should be relative to the work done. It means that the commit should be descriptive enough to explain what the changes in the code really are. If a person is trying to solve multiple problems, then each commit made should define the exact unique problem that is solved (Source:  [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices)).
 
-2. Commit small but often:
-
+### Commit small but often:
 Committing code in small increments reduces the risk of integration conflicts. Regular, small commits and well-documented changes would make it easier to revert if any conflicts do occur. Committing frequently helps to keep changes small and focused Which in turn allows for frequent integration with other contributors. Infrequent, large commits create challenges in resolving disputes and understanding changes. (Source:  [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices), [Gitlab](https://about.gitlab.com/topics/version-control/version-control-best-practices))
 
-3. Never commit incomplete work:
+### Never commit incomplete work:
 Only commit code fully functional code to the repository. This does not mean that you have to complete a big feature before committing. In fact, it is recommended to split the implementation of the feature into smaller, manageable chunks and commit early and frequently to keep the code up to date. (Source:  [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices))
 
-4. Use of Branches:
-
+### Use of Branches:
 Branching is a crucial feature of Git. It helps keep different lines of development separate and reduces confusion. To make the most of this feature, branches should be utilized in your development process for various tasks such as adding new features, fixing bugs, conducting experiments or exploring ideas. (Source:  [Git-Tower](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices))
-
 In conclusion, A version control system like Git can greatly enhance software development processes by allowing for efficient tracking of code changes, enabling collaboration, and providing greater control over project history. By leveraging features provided by these version control systems, developers can create better development workflows, reduce errors in code and always remain up-to date. 
 
 # Resources
